@@ -8,12 +8,11 @@
 [![GitHub yanovsk](https://img.shields.io/github/followers/yanovsk?label=follow&style=social)](https://github.com/yanovsk)
 
 
-- 🔭 I’m currently working on [Google Developers Student Club](https://gdsc.community.dev/de-anza-college/) @De Anza College
-- 🧑🏻‍💻 I study computer science at De Anza College | Cupertino, CA
+- 🧑🏻‍💻 I study computer science at Massachusetts Institute of Technology
 - 🌱 I’m currently learning ```Typescript and Go```
 - 👯 I’m looking to collaborate on [pnyx](https://github.com/yanovsk/pnyx)
 - 🤔 I’m looking for help with ```technical interview prep```
-- 💬 Ask me about anything [here](https://www.instagram.com/dyanovsky_/)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/d-yanovsky/)
 
 <h1></h1>
 
