@@ -9,9 +9,6 @@
 
 
 - 🧑🏻‍💻 I study computer science at Massachusetts Institute of Technology
-- 🌱 I’m currently learning ```Typescript and Go```
-- 👯 I’m looking to collaborate on [pnyx](https://github.com/yanovsk/pnyx)
-- 🤔 I’m looking for help with ```technical interview prep```
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/d-yanovsky/)
 
 
